@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+
+Specification-Title: config-spring-cloud-starter
+Specification-Version: 1.0
+Built-By: root
+
+Class-Path:  commons-beanutils.jar commons-collections.jar commons-dig
+ ester.jar commons-logging.jar commons-validator.jar jakarta-oro.jar s
+ truts-legacy.jar
+
+
+SCM_Branch:origin/master
+Created-By: Apache Maven 3.3.3
+
+Build-JDK:1.7.0_45
+Implementation-build:5
+
